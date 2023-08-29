@@ -1,0 +1,1 @@
+alert('please read our terms and policies')
